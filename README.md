@@ -1,3 +1,2 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/src/images/placeholder-dark.png" width="100%" />
-</p>
+## certificações|formações 
+<img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" width="80" />
